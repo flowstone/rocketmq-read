@@ -15,7 +15,10 @@
   See the License for the specific language governing permissions and
   limitations under the License.
   -->
-
+<!--
+2020-05-10
+修改nameServer日志路径
+ -->
 <configuration>
     <appender name="DefaultAppender"
               class="ch.qos.logback.core.rolling.RollingFileAppender">
